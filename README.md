@@ -1,5 +1,6 @@
-# gaussxw
+# Phys 206 Repository
 
-Written by Mark Newman <mejn@umich.edu>, June 4, 2011
-
+Data and codes shared here are not my own. 
 Uploaded here for Phys 206 usage.
+
+See individual files for the source.
