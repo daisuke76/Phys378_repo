@@ -1,0 +1,119 @@
+1901 : Wilhelm Conrad Roentgen
+1902 : Hendrik Antoon Lorentz, Pieter Zeeman 
+1903 : Antoine Henri Becquerel, Pierre Curie, Marie Curie
+1904 : John William Strutt, 3rd Baron Rayleigh
+1905 : Philipp Eduard Anton von Lenard 
+1906 : Sir Joseph John Thomson
+1907 : Albert Abraham Michelson
+1908 : Gabriel Lippmann 
+1909 : Guglielmo Marconi, Karl Ferdinand Braun 
+1910 : Johannes Diderik van der Waals 
+1911 : Wilhelm Wien
+1912 : Nils Gustaf Dalen
+1913 : Heike Kamerlingh-Onnes
+1914 : Max von Laue
+1915 : Sir William Henry Bragg, William Lawrence Bragg
+1916 : -
+1917 : Charles Glover Barkla
+1918 : Max Planck
+1919 : Johannes Stark
+1920 : Charles Edouard Guillaume 
+1921 : Albert Einstein 
+1922 : Niels Henrik David Bohr 
+1923 : Robert Andrews Millikan 
+1924 : Karl Manne Georg Siegbahn 
+1925 : James Franck, Gustav Ludwig Hertz 
+1926 : Jean Baptiste Perrin 
+1927 : Arthur Holly Compton, Charles Thomson Rees Wilson 
+1928 : Owen Willans Richardson 
+1929 : Prince Louis-Victor Pierre Raymond de Broglie 
+1930 : Sir Chandrasekhara Venkata Raman 
+1931 : -
+1932 : Werner Karl Heisenberg 
+1933 : Erwin Schroedinger, Paul Adrien Maurice Dirac 
+1934 : - 
+1935 : James Chadwick 
+1936 : Victor Franz Hess Carl David Anderson
+1937 : Clinton Joseph Davisson, George Paget Thomson 
+1938 : Enrico Fermi 
+1939 : Ernest Orlando Lawrence 
+1940 : -
+1941 : -
+1942 : -
+1943 : Otto Stern 
+1944 : Isidor Isaac Rabi 
+1945 : Wolfgang Pauli 
+1946 : Percy Williams Bridgman 
+1947 : Sir Edward Victor Appleton 
+1948 : Patrick Maynard Stuart Blackett 
+1949 : Hideki Yukawa
+1950 : Cecil Frank Powell 
+1951 : Sir John Douglas Cockcroft, Ernest Thomas Sinton Walton 
+1952 : Felix Bloch, Edward Mills Purcell 
+1953 : Frits (Frederik) Zernike 
+1954 : Max Born, Walther Bothe 
+1955 : Willis Eugene Lamb, Polykarp Kusch 
+1956 : William Bradford Shockley, John Bardeen, Walter Houser Brattain 
+1957 : Chen Ning Yang, Tsung-Dao Lee
+1958 : Pavel Alekseyevich Cherenkov, Il'ia Frank, Igor Yevgenyevich Tamm
+1959 : Emilio Gino Segre, Owen Chamberlain 
+1960 : Donald Arthur Glaser 
+1961 : Robert Hofstadter , Rudolf Ludwig Moessbauer 
+1962 : Lev Davidovich Landau 
+1963 : Eugene Paul Wigner, Maria Goeppert-Mayer, J. Hans D. Jensen 
+1964 : Charles Hard Townes, Nicolay Gennadiyevich Basov, Aleksandr Prokhorov
+1965 : Sin-Itiro Tomonaga, Julian Schwinger, Richard P. Feynman 
+1966 : Alfred Kastler 
+1967 : Hans Albrecht Bethe 
+1968 : Luis Walter Alvarez 
+1969 : Murray Gell-Mann 
+1970 : Hannes Olof Goesta Alfven, Louis Eugene Felix Neel 
+1971 : Dennis Gabor 
+1972 : John Bardeen, Leon Neil Cooper, John Robert Schrieffer 
+1973 : Leo Esaki, Ivar Giaever, Brian David Josephson 
+1974 : Sir Martin Ryle, Antony Hewish 
+1975 : Aage Niels Bohr, Ben Roy Mottelson, Leo James Rainwater 
+1976 : Burton Richter, Samuel Chao Chung Ting
+1977 : Philip Warren Anderson, Sir Nevill Francis Mott, John Hasbrouck van Vleck 
+1978 : Pyotr Leonidovich Kapitsa, Arno Allan Penzias, Robert Woodrow Wilson 
+1979 : Sheldon Lee Glashow, Abdus Salam, Steven Weinberg 
+1980 : James Watson Cronin, Val Logsdon Fitch 
+1981 : Nicolaas Bloembergen, Arthur Leonard Schawlow, Kai Manne Boerje Siegbahn 
+1982 : Kenneth G. Wilson 
+1983 : Subrahmanyan Chandrasekhar, William Alfred Fowler 
+1984 : Carlo Rubbia, Simon van der Meer 
+1985 : Klaus von Klitzing 
+1986 : Ernst Ruska, Gerd Binnig, Heinrich Rohrer 
+1987 : Johannes Georg Bednorz, Karl Alexander Mueller 
+1988 : Leon Max Lederman, Melvin Schwartz, Jack Steinberger 
+1989 : Norman Foster Ramsey, Hans Georg Dehmelt, Wolfgang Paul 
+1990 : Jerome Isaac Friedman, Henry Way Kendall, Richard Edward Taylor 
+1991 : Pierre-Gilles de Gennes 
+1992 : Georges Charpak 
+1993 : Russell Alan Hulse, Joseph Hooton Taylor Jr. 
+1994 : Bertram Neville Brockhouse, Clifford Glenwood Shull 
+1995 : Martin Lewis Perl, Frederick Reines 
+1996 : David Morris Lee, Douglas Dean Osheroff, Robert Coleman Richardson 
+1997 : Steven Chu, Claude Cohen-Tannoudji, William Daniel Phillips 
+1998 : Robert B. Laughlin, Horst Ludwig Stoermer, Daniel Chee Tsui
+1999 : Gerardus 't Hooft, Martinus J.G. Veltman 
+2000 : Zhores Ivanovich Alferov, Herbert Kroemer, Jack St. Clair Kilby 
+2001 : Eric Allin Cornell, Wolfgang Ketterle, Carl Edwin Wieman 
+2002 : Raymond Davis Jr., Masatoshi Koshiba, Riccardo Giacconi 
+2003 : Alexei Alexeevich Abrikosov, Vitaly Lazarevich Ginzburg, Anthony James Leggett 
+2004 : David J. Gross, H. David Politzer, Frank Wilczek 
+2005 : Roy J. Glauber, John L. Hall, Theodor W. Haensch 
+2006 : John C. Mather, George F. Smoot
+2007 : Albert Fert, Peter Gruenberg
+2008 : Yoichiro Nambu, Makoto Kobayashi, Toshihide Maskawa
+2009 : Charles K. Kao, Willard S. Boyle, George E. Smith
+2010 : Andre Geim, Konstantin Novoselov
+2011 : Saul Perlmutter, Brian P. Schmidt, Adam G. Riess
+2012 : Serge Haroche, David J. Wineland
+2013 : Francois Englert, Peter W. Higgs
+2014 : Isamu Akasaki, Hiroshi Amano, Shuji Nakamura
+2015 : Takaaki Kajita, Arthur B. McDonald
+2016 : David J. Thouless, F. Dundan M. Haldane, J. Michael Kosterlitz
+2017 : Rainer Weiss, Barry C. Barish, Kip S. Thorne
+2018 : Arthur Ashkin, Gerard Mourou, Donna Strickland
+2019 : James Peebles, Michael Mayor, Didier Queloz
